@@ -61,7 +61,6 @@ a:hover {
     float: none;
     clear: both;
  }
-
 /*FORMULARIOS*/
 input[type="text"],
 input[type="email"],
@@ -76,7 +75,6 @@ select {
   color: green;
   transition: all 300 ms;
 }
-
 input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="password"]:focus,
@@ -84,7 +82,6 @@ select:focus {
   border: 1px solid #70b231;
   color: black;
 }
-
 input[type="button"],
 input[type="submit"],
 input[type="reset"],
@@ -98,14 +95,12 @@ button {
   background-color: #70b231;
   cursor: pointer;
 }
-
 input[type="button"]:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 button:hover {
   box-shadow: 0px 0px 2px gray;
 }
-
 input[type="button"]:active,
 input[type="submit"]:active,
 input[type="reset"]:active,
@@ -113,7 +108,6 @@ button:active {
   box-shadow: 0px 0px 3px gray inset;
   text-shadow: 0px 0px 1px #ccc;
 }
-
 /*cabecera*/
 #header {
   min-width: 1024px;
@@ -144,7 +138,6 @@ button:active {
   text-shadow: 0px 2px 1px #333333;
   transition: all 300ms;
 }
-
 #header h1:hover {
   text-shadow: 0px 2px 1px #333333, 0px 0px 4px #70b231;
 }
@@ -167,14 +160,12 @@ button:active {
   margin: 0px auto;
   width: 1090px;
 }
-
 #nav > ul > li {
   line-height: 40px;
   float: left;
   border-right: 1px solid gray;
   transition: 300ms;
 }
-
 #nav > ul > li a {
   display: block;
   padding-left: 20px;
@@ -343,7 +334,6 @@ button:active {
     margin-top: 20px;
     margin-right: 20px;
 }
-
 /*Pie de página*/
 #footer{
     width: 100%;
